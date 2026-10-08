@@ -1,0 +1,35 @@
+GUILHERMANO — SITE COMPLETO ATUALIZADO
+
+Site em HTML, CSS e JavaScript, com Home, Serviços, Consultoria, Contato e FAQ.
+
+COMO ABRIR
+Extraia o ZIP e abra index.html no navegador. Não precisa instalar dependências ou compilar.
+
+ARQUIVOS
+index.html: estrutura e textos da página, oito categorias de serviços e FAQ.
+styles.css: cores, estilos e versões para celular e desktop.
+services.js: portfólio completo, organizado em oito categorias com serviços individuais.
+app.js: menu, detalhes das categorias e contato pelo WhatsApp.
+assets/: logotipo enviado e nova imagem principal de SSMAQ (hero-ssmaq.png), com equipe técnica em inspeção, ambiente empresarial e áreas verdes. A fotografia foi gerada para este layout.
+
+CATEGORIAS
+1. Segurança do Trabalho
+2. SSMAQ e Sistemas de Gestão
+3. Normas Regulamentadoras e Treinamentos
+4. SASSMAQ e Transporte de Produtos Perigosos
+5. Meio Ambiente e Licenciamento
+6. Emergências, Incêndio e PAE
+7. Laudos, Avaliações e Documentação Técnica
+8. Cursos de Trânsito 100% Online
+
+Os serviços detalhados estão em services.js e aparecem ao clicar em Ver serviços.
+A seção de NRs inclui a frase: Dentre outras Normas Regulamentadoras, conforme as atividades e necessidades de cada empresa.
+
+COMO PERSONALIZAR
+Edite os textos em index.html e as listas em services.js. Ao alterar nomes ou descrições de categorias, atualize também os cartões e as opções do formulário em index.html.
+Edite styles.css para ajustar a aparência.
+O WhatsApp configurado é +55 27 98815-7418, informado no material enviado.
+O formulário prepara uma mensagem e abre o WhatsApp. O visitante revisa e envia. Não há servidor, banco de dados ou envio por e-mail.
+
+COMO PUBLICAR
+Envie index.html, styles.css, services.js, app.js e assets/ para uma hospedagem de arquivos estáticos, mantendo a estrutura.
